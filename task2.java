@@ -14,3 +14,7 @@ class ak{
 
     }
 }
+merging main branch to anilsubbranch eg
+adding   new lines of  code 
+task 2 
+Create a project with a main branch. Add a new feature on a separate branch and merge it back into the main branch. Resolve any merge conflicts that arise
