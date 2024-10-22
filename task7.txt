@@ -2,3 +2,13 @@ hai
 System.out.print("first commie");
 hello
 System.out.print("second commie");
+git log
+ommit 1bcfa61fc2932abddaafa2c8d28b006017edb413 (HEAD -> main, origin/main)
+Author: Anilkumar969 <anilkumar1533004@gmail.com>
+Date:   Tue Oct 22 14:43:11 2024 +0530
+
+    my 2
+
+commit ca6e88da4a9473667e53ee73af9224361a4124cc
+Author: Anilkumar969 <anilkumar1533004@gmail.com>
+Date:   Tue Oct 22 14:42:00 2024 +0530
