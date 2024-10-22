@@ -2,5 +2,24 @@ hai
 this is greemus software company
 iam working as a associate software engineer 
 java developer
-raju
-working in amazon company
+<<<<<<< HEAD
+<<<<<<< HEAD:aniltask3/aniltask4/task4.txt
+testing 
+=======
+testing
+aws
+>>>>>>> parent of b92e832 (my task 4):aniltask3/aniltask4.txt
+devops
+=======
+<<<<<<<< HEAD:aniltask3/aniltask4/task4.txt
+testing 
+devops
+data engineer
+amazon
+
+========
+testing
+aws
+devops
+>>>>>>>> parent of b92e832 (my task 4):aniltask3/aniltask4.txt
+>>>>>>> parent of b92e832 (my task 4)
